@@ -11,8 +11,7 @@
 - Estou me preparando para uma grande missão em tecnologia
 - Gostaria de colaborar em grandes empresas do setor tecnológico e afins
 - [Este é meu LinkedIn](https://www.linkedin.com/in/marcoslinoti/)
-- Cisgenero
-- Atualmente atuando no setor de segunrança patrimonial
+- Atualmente no setor de segurança patrimonial
 
 <!---
 linomar31/linomar31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
