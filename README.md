@@ -2,7 +2,7 @@
  <picture>
  <source media="(prefers-color-scheme: dark)" srcset="![network](https://github.com/user-attachments/assets/bb9a557f-6396-4c0c-b768-4274d7c31c19)">
  <source media="(prefers-color-scheme: light)" srcset="![network](https://github.com/user-attachments/assets/bb9a557f-6396-4c0c-b768-4274d7c31c19)">
- <img alt="Imagem-tecnológica" src="![network](https://github.com/user-attachments/assets/bb9a557f-6396-4c0c-b768-4274d7c31c19)">
+ <img alt="Imagem-tecnológica" src="https://github.com/user-attachments/assets/bb9a557f-6396-4c0c-b768-4274d7c31c19.png">
 </picture> 
 i, I’m Marcos Lino
 - 👀 De olho em tecnologia
