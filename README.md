@@ -10,7 +10,7 @@
 - De olho em tecnologia
 - Estou envolvido em uma grande missão de aprendizagem em tecnologia
 - Gostaria de colaborar em grandes empresas do setor tecnológico e afins
-- [Este é meu LinkedIn](https://www.linkedin.com/in/marcoslinoti/) 
+- <a href="https://www.linkedin.com/in/marcoslinoti/" target="_blank">Este é meu LinkedIn</a> 
 - Atualmente no setor de segurança patrimonial
 
 <h1 align="center">| ONE+ Oracle |
