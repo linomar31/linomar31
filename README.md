@@ -1,5 +1,9 @@
 <h1 align="center"> - 👋 Hi 
- <picture>![Ready for work](https://github.com/user-attachments/assets/0aed900f-3e92-4b08-992a-46eeda3405ce)</picture> 
+ <picture><source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="<source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">"></picture> 
 i, I’m Marcos Lino
 - 👀 De olho em tecnologia
 - 🌱 Estou me preparando para uma grande missão em tecnologia
