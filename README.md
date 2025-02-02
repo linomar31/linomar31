@@ -2,7 +2,7 @@
  <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/bb9a557f-6396-4c0c-b768-4274d7c31c19">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/bb9a557f-6396-4c0c-b768-4274d7c31c19">
- <img alt="Imagem-tecnológica" src="https://github.com/user-attachments/assets/bb9a557f-6396-4c0c-b768-4274d7c31c19">
+ <img alt="Imagem-tecnológica" src width="50%"="https://github.com/user-attachments/assets/bb9a557f-6396-4c0c-b768-4274d7c31c19">
 </picture> 
 
  ## Sobre mim
@@ -13,12 +13,11 @@
 - [Este é meu LinkedIn](https://www.linkedin.com/in/marcoslinoti/)
 - Atualmente no setor de segurança patrimonial
 
-| Rank | Estudando |
-|-----:|---------------|
-|     1| JavaScript   |
-|     2| CSS        |
-|     3| HTML     |
-|     4| Data Cience|
+<h1 align="center">| ONE+ Oracle |
+| JavaScript   |
+| CSS        |
+| HTML     |
+| Data Cience|
 
 <!---
 linomar31/linomar31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
