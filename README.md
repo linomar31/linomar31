@@ -1,9 +1,9 @@
-<h1 align="center"> - 👋 Hi 
- <picture><source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+<h1 align="center"> - Bem-vindo ao meu repositório! 
+ <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="<source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">"></picture> 
+ <img alt="Imagem-tecnológica" src="![network](https://github.com/user-attachments/assets/bb9a557f-6396-4c0c-b768-4274d7c31c19)">
+</picture> 
 i, I’m Marcos Lino
 - 👀 De olho em tecnologia
 - 🌱 Estou me preparando para uma grande missão em tecnologia
