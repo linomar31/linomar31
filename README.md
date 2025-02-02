@@ -13,6 +13,13 @@
 - [Este é meu LinkedIn](https://www.linkedin.com/in/marcoslinoti/)
 - Atualmente no setor de segurança patrimonial
 
+| Rank | Estudando |
+|-----:|---------------|
+|     1| JavaScript   |
+|     2| CSS        |
+|     3| HTML     |
+|     4| Data Cience|
+
 <!---
 linomar31/linomar31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
