@@ -1,7 +1,7 @@
 <h1 align="center"> - Bem-vindo ao meu repositório! 
  <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="![network](https://github.com/user-attachments/assets/bb9a557f-6396-4c0c-b768-4274d7c31c19)">
+ <source media="(prefers-color-scheme: light)" srcset="![network](https://github.com/user-attachments/assets/bb9a557f-6396-4c0c-b768-4274d7c31c19)">
  <img alt="Imagem-tecnológica" src="![network](https://github.com/user-attachments/assets/bb9a557f-6396-4c0c-b768-4274d7c31c19)">
 </picture> 
 i, I’m Marcos Lino
