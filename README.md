@@ -1,5 +1,5 @@
 <h1 align="center"> - 👋 Hi 
-  ![Ready for work](https://github.com/user-attachments/assets/0aed900f-3e92-4b08-992a-46eeda3405ce)
+ <picture>![Ready for work](https://github.com/user-attachments/assets/0aed900f-3e92-4b08-992a-46eeda3405ce)</picture> 
 i, I’m Marcos Lino
 - 👀 De olho em tecnologia
 - 🌱 Estou me preparando para uma grande missão em tecnologia
