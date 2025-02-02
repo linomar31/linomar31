@@ -3,7 +3,7 @@ i, I’m Marcos Lino
 - 👀 De olho em tecnologia
 - 🌱 Estou me preparando para uma grande missão em tecnologia
 - 💞️ Gostaria de colaborar em grandes empresas do setor tecnológico e afins
-- 📫 Estou no LinkedIn 
+- 📫 [Estou no LinkedIn] (https://www.linkedin.com/in/marcoslinoti/)
 - 😄 Cisgenero
 - ⚡ Supervisor
 
